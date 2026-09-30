@@ -1,0 +1,7 @@
+# Editor behaviour from ziran-vscode's language-configuration.json:
+# line comments, and indent on an opening brace / dedent on a closing one.
+'.source.ziran':
+  'editor':
+    'commentStart': '// '
+    'increaseIndentPattern': '\\{[^}]*$'
+    'decreaseIndentPattern': '^\\s*\\}'

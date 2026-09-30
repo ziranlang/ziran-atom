@@ -1,0 +1,17 @@
+{
+  "name": "language-ziran",
+  "version": "0.6.3",
+  "description": "Ziran language support for Atom: the syntax highlighting, brackets, and comments of the ziran-vscode extension, ported to an Atom grammar.",
+  "repository": "https://github.com/ziranlang/ziran-atom",
+  "license": "MIT",
+  "keywords": [
+    "ziran",
+    "zi",
+    "kryon",
+    "language",
+    "grammar"
+  ],
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
